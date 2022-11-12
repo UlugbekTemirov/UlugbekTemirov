@@ -5,7 +5,7 @@ I am Ulugbek Temirov, currently studying at [Ajou university](https://www.ajou.u
 [![Linkedin Badge](https://img.shields.io/badge/-UlugbekTemirov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ulugbek-temirov-844a84208//)](https://www.linkedin.com/in/ulugbek-temirov-844a84208/)
 [![Gmail Badge](https://img.shields.io/badge/-temirovulugbek2003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:temirovulugbek2003@gmail.com)](mailto:temirovulugbek2003@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-ulugbek.exe-c14438?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ulugbek.exe)](https://www.instagram.com/ulugbek.exe)
-[![Instagram Badge](https://img.shields.io/badge/-ulugbek.exe-black?style=flat-square&logo=telegram&logoColor=white&link=https://www.t.me/TemirovUlugbek)](https://www.t.me/TemirovUlugbek)
+[![Instagram Badge](https://img.shields.io/badge/-ulugbek.exe-success?style=flat-square&logo=telegram&logoColor=white&link=https://www.t.me/TemirovUlugbek)](https://www.t.me/TemirovUlugbek)
 
 
 ## ⚡ Technologies
