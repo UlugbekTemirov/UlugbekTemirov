@@ -4,8 +4,8 @@ I am Ulugbek Temirov, currently studying at [Ajou university](https://www.ajou.u
 
 [![Linkedin Badge](https://img.shields.io/badge/-UlugbekTemirov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ulugbek-temirov-844a84208//)](https://www.linkedin.com/in/ulugbek-temirov-844a84208/)
 [![Gmail Badge](https://img.shields.io/badge/-temirovulugbek2003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:temirovulugbek2003@gmail.com)](mailto:temirovulugbek2003@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/ulugbek.exe?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ulugbek.exe/)](https://www.instagram.com/ulugbek.exe/)
-[![Telegram Badge](https://img.shields.io/badge/TemirovUlugbek?style=flat-square&logo=telegram&logoColor=white&link=https://www.t.me.com/TemirovUlugbek/)](https://www.t.me.com/TemirovUlugbek/)
+[![Instagram Badge](https://img.shields.io/badge/ulugbek.exe?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ulugbek.exe/)](https://www.instagram.com/ulugbek.exe/)
+[![Telegram Badge](https://img.shields.io/badge/TemirovUlugbek?style=flat-square&logo=Telegram&logoColor=white&link=https://www.t.me.com/TemirovUlugbek/)](https://www.t.me.com/TemirovUlugbek/)
 
 
 ## ⚡ Technologies
