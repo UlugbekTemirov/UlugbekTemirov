@@ -32,4 +32,8 @@ I am Ulugbek Temirov, currently studying at [Ajou university](https://www.ajou.u
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=UlugbekTemirov&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlugbekTemirov&hide=TeX&layout=compact&theme=dark)
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png" />
+</div>
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=UlugbekTemirov.UlugbekTemirov)
