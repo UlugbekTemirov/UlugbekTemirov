@@ -29,7 +29,7 @@ I am Ulugbek Temirov, currently studying at [Ajou university](https://www.ajou.u
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat&logo=bitbucket)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=UlugbekTemirov&count_private=true&show_icons=true&include_all_commits=true&theme=gradient)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=UlugbekTemirov&count_private=true&show_icons=true&include_all_commits=true&theme=Gradient)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlugbekTemirov&hide=TeX&layout=compact&theme=dark)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=UlugbekTemirov.UlugbekTemirov)
