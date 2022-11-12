@@ -33,10 +33,10 @@ I am Ulugbek Temirov, currently studying at [Ajou university](https://www.ajou.u
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlugbekTemirov&hide=TeX&layout=compact&theme=dark)
 
 <a href="https://github.com/UlugbekTemirov/UlugbekTemirov">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UlugbekTemirov&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UlugbekTemirov&repo=UlugbekTemirov" />
 </a>
 <a href="https://github.com/UlugbekTemirov/zakovat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UlugbekTemirov&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UlugbekTemirov&repo=zakovat" />
 </a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=UlugbekTemirov.UlugbekTemirov)
