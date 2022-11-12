@@ -2,10 +2,10 @@
 
 I am Ulugbek Temirov, currently studying at [Ajou university](https://www.ajou.uz/) in Tashkent. I am trying to be a Full-Stack JavaScript developer, now I know Frontend development and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ulugbek-temirov-844a84208//)](https://www.linkedin.com/in/ulugbek-temirov-844a84208/)
+[![Linkedin Badge](https://img.shields.io/badge/-UlugbekTemirov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ulugbek-temirov-844a84208//)](https://www.linkedin.com/in/ulugbek-temirov-844a84208/)
 [![Gmail Badge](https://img.shields.io/badge/-temirovulugbek2003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:temirovulugbek2003@gmail.com)](mailto:temirovulugbek2003@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ulugbek.exe/)](https://www.instagram.com/ulugbek.exe/)
-[![Telegram Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=telegram&logoColor=white&link=https://www.t.me.com/TemirovUlugbek/)](https://www.t.me.com/TemirovUlugbek/)
+[![Instagram Badge](https://img.shields.io/badge/ulugbek.exe?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ulugbek.exe/)](https://www.instagram.com/ulugbek.exe/)
+[![Telegram Badge](https://img.shields.io/badge/TemirovUlugbek?style=flat-square&logo=telegram&logoColor=white&link=https://www.t.me.com/TemirovUlugbek/)](https://www.t.me.com/TemirovUlugbek/)
 
 
 ## ⚡ Technologies
