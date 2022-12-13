@@ -2,7 +2,6 @@
 
 ![](https://media.giphy.com/media/1BXa2alBjrCXC/giphy.gif)
 ![](https://media.giphy.com/media/QyL7KVxt6ey4GApc7t/giphy.gif)
-![](https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif)
 ![](https://media.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif)
 ![](https://media.giphy.com/media/e5EcjjJx3dCFi/giphy.gif)
 
