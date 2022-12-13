@@ -2,8 +2,6 @@
 
 ![](https://media.giphy.com/media/1BXa2alBjrCXC/giphy.gif)![](https://media.giphy.com/media/QyL7KVxt6ey4GApc7t/giphy.gif)
 
-<a href=#><img src="contributions.svg"></a>
-
 I am Ulugbek Temirov, currently studying at [Ajou university](https://www.ajou.uz/) in Tashkent. I am trying to be a Full-Stack JavaScript developer, now I know Frontend development and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-UlugbekTemirov-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ulugbek-temirov-844a84208//)](https://www.linkedin.com/in/ulugbek-temirov-844a84208/)
