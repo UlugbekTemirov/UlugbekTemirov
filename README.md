@@ -4,6 +4,7 @@
 ![](https://media.giphy.com/media/QyL7KVxt6ey4GApc7t/giphy.gif)
 ![](https://media.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif)
 ![](https://media.giphy.com/media/e5EcjjJx3dCFi/giphy.gif)
+![](https://media.giphy.com/media/KfI70Smd38QcqteliH/giphy.gif)
 
 
 I am Ulugbek Temirov, currently studying at [Ajou university](https://www.ajou.uz/) in Tashkent. I am trying to be a Full-Stack JavaScript developer, now I know Frontend development and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
