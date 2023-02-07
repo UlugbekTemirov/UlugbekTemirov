@@ -2,7 +2,7 @@
 
 ![](https://media.giphy.com/media/1BXa2alBjrCXC/giphy.gif) ![](https://media.giphy.com/media/KfI70Smd38QcqteliH/giphy.gif)
 
-<a href=#><img src="snake.svg"></a>
+<a href="#"><img src="snake.svg"></a>
 
 
 I am Ulugbek Temirov, currently studying at [Ajou university](https://www.ajou.uz/) in Tashkent. I am trying to be a Full-Stack JavaScript developer, now I know Frontend development and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
