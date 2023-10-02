@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![](https://media.giphy.com/media/KfI70Smd38QcqteliH/giphy.gif)
-
 <a href="#"><img src="snake.svg"></a>
 
 
