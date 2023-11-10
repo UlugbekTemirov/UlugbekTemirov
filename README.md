@@ -1,29 +1,31 @@
-### Hi there 👋
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Ulugbek<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Software developer at <a href="https://gitlab.com/servisoft.uz">ServiSoft
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<a href="#"><img src="snake.svg"></a>
-
-
-I am Ulugbek Temirov, currently studying at [Ajou university](https://www.ajou.uz/) in Tashkent. I am trying to be a Full-Stack JavaScript developer, now I know Frontend development and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
-
-[![Linkedin Badge](https://img.shields.io/badge/-UlugbekTemirov-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ulugbek-temirov-844a84208//)](https://www.linkedin.com/in/ulugbek-temirov-844a84208/)
-[![Gmail Badge](https://img.shields.io/badge/-temirovulugbek2003@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:temirovulugbek2003@gmail.com)](mailto:temirovulugbek2003@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-ulugbek.exe-critical?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ulugbek.exe)](https://www.instagram.com/ulugbek.exe)
-[![Instagram Badge](https://img.shields.io/badge/-TemirovUlugbek-orange?style=flat&logo=telegram&logoColor=white&link=https://www.t.me/TemirovUlugbek)](https://www.t.me/TemirovUlugbek)
+[![Linkedin: dilshod](https://img.shields.io/badge/-dilshod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ulugbektemirov/)](https://www.linkedin.com/in/ulugbektemirov/)
+![GitHub followers](https://img.shields.io/github/followers/ulugbektemirov?label=Follow&style=social)
 
 
-## ⚡ Technologies
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-orange?style=flat&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+```javascript
+const Ulugbek = {
+    pronouns: "He" | "Him",
+    code: [Javascript, Typescript, HTML, CSS],
+    tools: [React, Next, Redux, Redux-toolkit, Node, TailwindCss],
+    architecture: ["Progressive web applications", "Single page applications"],
+    currentFocus: "No Focus point at this time",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=UlugbekTemirov&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlugbekTemirov&hide=TeX&layout=compact&theme=dark)
+<p align = "center">
+<!--   <img  src = "https://github-readme-stats.vercel.app/api?username=sevbo2003&show_icons=true&theme=radical&border_color=#000000"> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ulugbektemirov&show_icons=true&theme=vision-friendly-dark" alt="Dilshod(dilshodsherzodovich)" width="100%" >
+<!--   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sevbo2003&show_icons=true&locale=en&layout=compact&theme=radical&line_height=27" /> -->
+</p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=UlugbekTemirov.UlugbekTemirov)
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
